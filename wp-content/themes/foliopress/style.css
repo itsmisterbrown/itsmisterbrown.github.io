@@ -2659,3 +2659,7 @@ figure.wp-block-image,
 		background: none;
 	}
 }
+
+.hidetitle .entry-title {
+display:none;
+}

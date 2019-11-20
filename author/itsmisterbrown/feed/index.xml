@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>itsmisterbrown &#8211; Bryan P. Brown</title>
+	<title>itsmisterbrown</title>
 	<atom:link href="http://localhost/wordpress/author/itsmisterbrown/feed/" rel="self" type="application/rss+xml" />
 	<link>https://itsmisterbrown.github.io</link>
-	<description>Postdoc @Seattle Children&#039;s</description>
+	<description></description>
 	<lastBuildDate>Tue, 19 Nov 2019 01:15:40 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.3</generator>
+
+<image>
+	<url>https://itsmisterbrown.github.io/wp-content/uploads/2019/11/cropped-IMG_20170215_111506-01-scaled-32x32.jpeg</url>
+	<title>itsmisterbrown</title>
+	<link>https://itsmisterbrown.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Hello world!</title>
 		<link>https://itsmisterbrown.github.io/2019/11/19/hello-world/</link>

@@ -12,13 +12,13 @@
 	<atom:link href="http://localhost/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>https://itsmisterbrown.github.io</link>
 	<description></description>
-	<lastBuildDate>Tue, 08 Feb 2022 19:38:46 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 09 Feb 2022 19:22:02 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.3.11</generator>
+	<generator>https://wordpress.org/?v=5.9</generator>
 
 <image>
 	<url>https://itsmisterbrown.github.io/wp-content/uploads/2019/11/cropped-IMG_20170215_111506-01-scaled-32x32.jpeg</url>
